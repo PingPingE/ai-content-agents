@@ -221,7 +221,8 @@ your-project/
 
 ## Related
 
-- [claude-code-agent-template](https://github.com/PingPingE/claude-code-agent-template) — more multi-agent templates (starter, PR review, bug fix, code quality)
+- [claudetemplate.com](https://claudetemplate.com) — production-grade Claude Code agent templates with hooks, CI pipelines, and larger agent teams
+- [claude-code-agent-template](https://github.com/PingPingE/claude-code-agent-template) — more open-source multi-agent templates (starter, PR review, bug fix, code quality)
 - [Claude Code docs](https://docs.anthropic.com/en/docs/claude-code)
 
 ## License
