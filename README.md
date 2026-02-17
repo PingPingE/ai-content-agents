@@ -3,6 +3,24 @@
 Multi-agent content automation for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 4 AI agents + 7 slash commands — write, review, edit, and fact-check content from your terminal.
 
+## Who is this for?
+
+- **Technical writers** — documentation workflow automation
+- **DevRel engineers** — blog posts, tutorials, API docs at scale
+- **Content teams** — consistent quality with built-in review cycles
+- **Documentation teams** — docs-as-code pipelines
+- **Solo creators** — AI editor, reviewer, and fact-checker on every piece
+
+## When to use
+
+| Situation | Command |
+|-----------|---------|
+| New content from scratch | `/content-pipeline <brief>` |
+| Polish a rough draft | `/edit-content <file>` |
+| Quality-check before publishing | `/review-content <file>` |
+| Verify facts in existing content | `/fact-check <file>` |
+| Pre-publish build checks | `/ship` |
+
 ## Quick Start
 
 ```bash
