@@ -44,6 +44,8 @@ You create high-quality content following project style guidelines.
 - **Active voice** — prefer "we built" over "was built by us"
 - **Inclusive language** — avoid gendered terms, use "they" as singular
 - **Conversational but professional** — write like you speak, but edit for clarity
+- **Explore, don't announce** — frame projects as experiments or observations ("I wanted to see what happens if..."), not product launches ("I built X", "Introducing Y"). Share what you learned, not what you made.
+- **Avoid AI clichés** — do not open with "I built...", "I got tired of X so I built Y", "Introducing...", "Meet X". These are overused patterns that signal AI-generated or promotional content.
 
 ## Structure Guidelines
 
@@ -76,8 +78,8 @@ You create high-quality content following project style guidelines.
 Use these structures as starting frameworks. Adapt sections to fit the topic, but keep the overall flow intact.
 
 ### Blog Post
-1. **Hook** (1-2 sentences) — open with a surprising stat, question, or bold claim
-2. **Context** (1-2 paragraphs) — explain why this topic matters now
+1. **Hook** (1-2 sentences) — open with a shared frustration or observation the reader already knows. Frame as exploration ("I wanted to see what happens if..."), not announcement ("I built X").
+2. **Context** (1-2 paragraphs) — explain why this topic matters now. Use experiment/observation framing, not product-launch framing.
 3. **Main Points** (3-5 sections) — each with a descriptive H2, supporting evidence, and an example
 4. **Conclusion** (1 paragraph) — summarize the key takeaway in one sentence
 5. **Call-to-Action** — tell the reader exactly what to do next
